@@ -1,5 +1,3 @@
- 
 
 
-print ("Hola mundo")
-print("hola 2 erik")
+print ("Hola mundo alex")
